@@ -60,6 +60,7 @@ public class SimpleJava {
 		
 		System.out.println(fo2);
 		
+		System.out.println(fo2);
 	
 		
 	}
