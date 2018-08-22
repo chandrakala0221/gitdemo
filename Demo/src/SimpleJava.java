@@ -35,6 +35,10 @@ public class SimpleJava {
 	void git(){
 		System.out.println("github demo commit");
 	}
+	
+	void git2(){
+		System.out.println("github demo commit");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -62,6 +66,8 @@ public class SimpleJava {
 		System.out.println(fo2);
 		
 		obj1.git();
+		
+		obj1.git2();
 		
 	}
 
