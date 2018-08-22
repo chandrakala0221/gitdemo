@@ -69,6 +69,8 @@ public class SimpleJava {
 		
 		obj1.git2();
 		
+		obj1.git2();
+		
 	}
 
 }
