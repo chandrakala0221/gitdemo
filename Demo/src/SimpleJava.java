@@ -8,6 +8,7 @@ public class SimpleJava {
 	void fun1(){
 		
 		System.out.println("This is fun1");
+		System.out.println("This is fun1");
 		
 	}
 	
