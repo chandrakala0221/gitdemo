@@ -32,6 +32,9 @@ public class SimpleJava {
 		return c;
 	}
 	
+	void git(){
+		System.out.println("github demo commit");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -57,6 +60,8 @@ public class SimpleJava {
 		int fo2 = obj1.fun4(50, 60);
 		
 		System.out.println(fo2);
+		
+		obj1.git();
 		
 	}
 
